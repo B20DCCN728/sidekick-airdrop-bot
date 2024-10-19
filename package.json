@@ -1,0 +1,14 @@
+{
+  "name": "sidekick",
+  "version": "1.0.0",
+  "description": "Sidekick Aidrop Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "MIT",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
